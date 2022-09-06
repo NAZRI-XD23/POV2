@@ -20,11 +20,10 @@ $ pkg install wget curl
 $ pip install requests mechanize
 $ pip install bs4 future
 $ pip install rich stdiomask
-$ rm -fr instagram3
-$ git clone https://github.com/Al-Vino/instagram3
+$ git clone https://github.com/NAZRI-XD23/POV2
 $ ls ( L kecil )
-$ cd instagram2
-$ python adj-ig3.py
+$ cd POV2
+$ python POV2.py
 ```
 ## Informasi penting
 ```bash
@@ -34,9 +33,9 @@ $_$ coba cek tumbal lohh apakah aman² aja atau udh terkena cepe
 # cara update
 ```php
 $ cd
-$ cd instagram3
+$ cd POV2
 $ git pull
-$ python adj-ig3.py
+$ python POV2.py
 ```
 
 # MY SOCIAL MEDIA
