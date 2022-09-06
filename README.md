@@ -4,11 +4,6 @@
 # SUPPORT ALL BIT + ALL COUNTRY
 # Hanya Bocil Yang Ga bisa dpet ijoo pepek
 # PAKE DOANG NGGA FOLLOW, KONTOL LOHH
-Logo ♥️
-![deskripsi gambar](https://i.ibb.co/FBDJ8wN/Screenshot-2022-08-02-00-02-33-863-com-termux.png)
-Hasil 🔥
-![deskripsi gambar](https://i.ibb.co/ByJTf9w/Screenshot-2022-08-01-23-30-00-574-com-termux.png)
-Gambar hanya pemanis selebihnya cobain sendiri 🐕
 # Instalation
 Download apk Termuxnya disini biar ngga eror🌟
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈
